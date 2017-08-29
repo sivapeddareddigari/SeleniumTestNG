@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GeneralFunctionality" duration-ms="29028" started-at="2017-08-29T14:04:08Z" finished-at="2017-08-29T14:04:37Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="29028" started-at="2017-08-29T14:04:08Z" finished-at="2017-08-29T14:04:37Z">
+      <class name="com.jhillanica.general.TestLoginPage">
+        <test-method status="PASS" signature="Invokebrower()[pri:0, instance:com.jhillanica.general.TestLoginPage@59494225]" name="Invokebrower" is-config="true" duration-ms="13281" started-at="2017-08-29T10:04:08Z" finished-at="2017-08-29T10:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invokebrower -->
+        <test-method status="PASS" signature="CheckLogin()[pri:0, instance:com.jhillanica.general.TestLoginPage@59494225]" name="CheckLogin" duration-ms="12975" started-at="2017-08-29T10:04:22Z" finished-at="2017-08-29T10:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLogin -->
+        <test-method status="PASS" signature="CheckLogout()[pri:0, instance:com.jhillanica.general.TestLoginPage@59494225]" name="CheckLogout" duration-ms="1690" started-at="2017-08-29T10:04:35Z" finished-at="2017-08-29T10:04:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLogout -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.jhillanica.general.TestLoginPage@59494225]" name="TearDown" is-config="true" duration-ms="1039" started-at="2017-08-29T10:04:36Z" finished-at="2017-08-29T10:04:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.jhillanica.general.TestLoginPage -->
+    </test> <!-- Regression -->
+  </suite> <!-- GeneralFunctionality -->
+</testng-results>
