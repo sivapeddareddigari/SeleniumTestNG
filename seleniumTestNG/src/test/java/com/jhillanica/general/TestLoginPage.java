@@ -16,7 +16,7 @@ import org.testng.annotations.Test;
 
 public class TestLoginPage {
 	//adding a comment 
-	//add secnd
+	//added a modification
 	WebDriver driver;
 
 	@Test(priority = 1)
